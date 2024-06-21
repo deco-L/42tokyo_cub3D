@@ -9,6 +9,7 @@
                                               
                                               
 ## usage
+make
 ./cub3D map/success/*.cub.
 
 ## map rule
