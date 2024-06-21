@@ -8,6 +8,8 @@
      \/____/ \/___/   \/___/  \/___/   \/___/ 
                                               
                                               
+## usage
+./cub3D map/success/*.cub.
 
 ## map rule
 
