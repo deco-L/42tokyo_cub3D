@@ -9,7 +9,7 @@
                                               
                                               
 ## usage
-make\n
+make  
 ./cub3D map/success/*.cub.
 
 ## map rule
